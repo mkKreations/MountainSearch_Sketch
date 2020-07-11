@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "42579230-265F-40B5-9986-1424883E1CE8",
+  "do_objectID": "B212764A-F81A-4130-B77C-812AB206E4BE",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 205.895966062727,
-    "width": 304,
-    "x": 0,
-    "y": 1.4210854715202e-14
+    "height": 94.16299032551039,
+    "width": 171.5323536577808,
+    "x": 75.22864946957198,
+    "y": 0
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -30,59 +30,59 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Middle Peak",
+  "name": "Middle Peak Shadow",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.50242410433498397, 0}",
+      "curveFrom": "{0.45185806989448218, 0}",
       "curveMode": 1,
-      "curveTo": "{0.50242410433498397, 0}",
+      "curveTo": "{0.45185806989448218, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.50242410433498397, 0}"
+      "point": "{0.45185806989448218, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0.84866667874120383}",
+      "curveFrom": "{0, 0.94325831106507751}",
       "curveMode": 1,
-      "curveTo": "{0, 0.84866667874120383}",
+      "curveTo": "{0, 0.94325831106507751}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 0.84866667874120383}"
+      "point": "{0, 0.94325831106507751}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 1.0000000000000011}",
+      "curveFrom": "{0.29500766518030158, 0.92955105204674959}",
       "curveMode": 1,
-      "curveTo": "{0, 1.0000000000000011}",
+      "curveTo": "{0.29500766518030158, 0.92955105204674959}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 1.0000000000000011}"
+      "point": "{0.29500766518030158, 0.92955105204674959}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 1.0000000000000011}",
+      "curveFrom": "{0.78960886653699325, 0.92955105204674926}",
       "curveMode": 1,
-      "curveTo": "{1, 1.0000000000000011}",
+      "curveTo": "{0.78960886653699325, 0.92955105204674926}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 1.0000000000000011}"
+      "point": "{0.78960886653699325, 0.92955105204674926}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.0000000000000002, 0.73556523726944034}",
+      "curveFrom": "{1, 0.99999999999999911}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000002, 0.73556523726944034}",
+      "curveTo": "{1, 0.99999999999999911}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.0000000000000002, 0.73556523726944034}"
+      "point": "{1, 0.99999999999999911}"
     }
   ],
   "resizingConstraint": 63,
@@ -232,7 +232,7 @@
           ],
           "to": "{0.66548738956834086, 0.69476239649146976}"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -245,23 +245,23 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 4,
+        "blurRadius": 6,
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 1
+          "blue": 0.1098039215686274,
+          "green": 0.1176470588235294,
+          "red": 0.788235294117647
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "offsetX": 0,
-        "offsetY": -4,
-        "spread": 0
+        "offsetY": -1,
+        "spread": 15
       }
     ],
     "startMarkerType": 0,

@@ -34,6 +34,10 @@
   "layers": [
     {
       "class": "shapePath",
+      "id": "B212764A-F81A-4130-B77C-812AB206E4BE"
+    },
+    {
+      "class": "shapePath",
       "id": "A2197A33-93FA-4BC7-92C6-4BE470C4189B"
     },
     {
