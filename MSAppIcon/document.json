@@ -3,8 +3,26 @@
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2235294117647059,
+          "green": 0.1843137254901961,
+          "red": 0.1843137254901961
+        },
+        "name": "Mountain Fill"
+      }
     ],
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2235294117647059,
+        "green": 0.1843137254901961,
+        "red": 0.1843137254901961
+      }
     ],
     "exportPresets": [
     ],
