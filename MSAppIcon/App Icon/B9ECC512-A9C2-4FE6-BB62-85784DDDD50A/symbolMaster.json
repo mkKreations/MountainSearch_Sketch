@@ -9,11 +9,15 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 11032,
+  "changeIdentifier": 11061,
   "clippingMaskMode": 0,
   "do_objectID": "B9ECC512-A9C2-4FE6-BB62-85784DDDD50A",
   "exportOptions": {
     "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
