@@ -1,17 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
-  "changeIdentifier": 38830,
   "clippingMaskMode": 0,
-  "do_objectID": "CC5287E0-69A5-4095-90F6-16676165F876",
+  "do_objectID": "9FB5F45F-86AC-4CCC-B832-044634580DB2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,51 +15,51 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 304,
-    "width": 304,
-    "x": 781,
-    "y": -711
+    "height": 206,
+    "width": 304.0000000000001,
+    "x": -5.684341886080801e-14,
+    "y": 98.10403393727302
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "2C49D96D-4C66-4445-8595-27CDD711EF4F"
+      "class": "shapePath",
+      "id": "210FAF7E-7BAE-479F-A9F4-528EFEF72A5D"
+    },
+    {
+      "class": "shapePath",
+      "id": "E170124D-DA7B-4568-BCD6-F35205537378"
+    },
+    {
+      "class": "shapePath",
+      "id": "DDF3C8BA-BD58-42A3-87DB-D8A33816134D"
+    },
+    {
+      "class": "shapePath",
+      "id": "08544C83-7518-439F-AF91-E56A2E5477A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B847C7D-987A-4D0F-A864-00B630CE3359"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Mountains",
+  "name": "Peaks",
   "nameIsFixed": true,
-  "overrideProperties": [
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -113,12 +104,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "B31E3338-3805-4DDC-9157-81E54F69E241",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

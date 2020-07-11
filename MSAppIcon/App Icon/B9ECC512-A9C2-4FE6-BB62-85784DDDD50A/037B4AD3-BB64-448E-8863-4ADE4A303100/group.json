@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CD322A30-9BAC-4F83-8593-86159AC62493",
+  "do_objectID": "037B4AD3-BB64-448E-8863-4ADE4A303100",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 206,
+    "height": 248,
     "width": 304.0000000000001,
     "x": 0,
-    "y": 98.10403393727303
+    "y": 57
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,23 +30,19 @@
   "isFlippedVertical": false,
   "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "A2197A33-93FA-4BC7-92C6-4BE470C4189B"
+      "class": "group",
+      "id": "CD322A30-9BAC-4F83-8593-86159AC62493"
     },
     {
-      "class": "shapePath",
-      "id": "42579230-265F-40B5-9986-1424883E1CE8"
-    },
-    {
-      "class": "shapePath",
-      "id": "C610087C-BA7E-4016-BD45-C7D47A5015F1"
+      "class": "oval",
+      "id": "28EFF6D0-F29D-42C6-99AB-381F3886DA94"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Peaks",
+  "name": "Mountains Icon",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
