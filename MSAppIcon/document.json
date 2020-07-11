@@ -61,6 +61,41 @@
           "to": "{0.18476565890089866, 0.44045093883089459}"
         },
         "name": "Mountain Fill"
+      },
+      {
+        "_class": "MSImmutableGradientAsset",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4784313725490196,
+                "green": 0.8470588235294118,
+                "red": 0.9450980392156862
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3176470588235294,
+                "green": 0.7568627450980392,
+                "red": 0.9098039215686274
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "name": "Sun Fill"
       }
     ],
     "gradients": [
@@ -94,6 +129,37 @@
           }
         ],
         "to": "{0.18476565890089866, 0.44045093883089459}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.4784313725490196,
+              "green": 0.8470588235294118,
+              "red": 0.9450980392156862
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.3176470588235294,
+              "green": 0.7568627450980392,
+              "red": 0.9098039215686274
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 1}"
       }
     ],
     "imageCollection": {

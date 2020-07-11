@@ -52,6 +52,10 @@
     {
       "class": "group",
       "id": "CD322A30-9BAC-4F83-8593-86159AC62493"
+    },
+    {
+      "class": "oval",
+      "id": "28EFF6D0-F29D-42C6-99AB-381F3886DA94"
     }
   ],
   "maintainScrollPosition": false,
