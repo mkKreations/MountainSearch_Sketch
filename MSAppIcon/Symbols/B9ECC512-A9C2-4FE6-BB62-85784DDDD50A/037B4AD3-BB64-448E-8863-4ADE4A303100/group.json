@@ -1,8 +1,8 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B8539992-70E6-4D60-AF54-E0CB5A5D6CA5",
+  "do_objectID": "037B4AD3-BB64-448E-8863-4ADE4A303100",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 366,
-    "width": 326,
-    "x": 93,
-    "y": 79
+    "height": 248,
+    "width": 304.0000000000001,
+    "x": 0,
+    "y": 57
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -28,29 +28,21 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "BB782E2B-78C6-4CA7-BE0D-94E598C83A52"
+      "class": "group",
+      "id": "CD322A30-9BAC-4F83-8593-86159AC62493"
     },
     {
-      "class": "shapePath",
-      "id": "944FFFE9-198E-4264-A5BA-B0C72CCFEF5B"
-    },
-    {
-      "class": "shapePath",
-      "id": "3D2A3797-692D-4063-B238-BD3137FD570A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "68FE351B-7FA0-4168-B49E-856E73C43CB9"
+      "class": "oval",
+      "id": "28EFF6D0-F29D-42C6-99AB-381F3886DA94"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Glyph",
+  "name": "Mountains Icon",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

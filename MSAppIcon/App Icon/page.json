@@ -106,6 +106,10 @@
     {
       "class": "bitmap",
       "id": "C8D396A6-6D6D-4583-94A1-D5712C4C3245"
+    },
+    {
+      "class": "bitmap",
+      "id": "DBE9AFBE-67E6-4A5C-885F-24BCF0DECC0C"
     }
   ],
   "maintainScrollPosition": false,
