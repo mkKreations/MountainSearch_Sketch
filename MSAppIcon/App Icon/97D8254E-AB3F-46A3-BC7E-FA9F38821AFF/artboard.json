@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,8 +47,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapePath",
+      "id": "A2197A33-93FA-4BC7-92C6-4BE470C4189B"
+    }
   ],
   "maintainScrollPosition": false,
   "name": "Mountains",
