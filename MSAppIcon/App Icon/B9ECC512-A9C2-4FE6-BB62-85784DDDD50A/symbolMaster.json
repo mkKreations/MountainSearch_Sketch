@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,14 +9,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 6,
   "clippingMaskMode": 0,
-  "do_objectID": "97D8254E-AB3F-46A3-BC7E-FA9F38821AFF",
+  "do_objectID": "B9ECC512-A9C2-4FE6-BB62-85784DDDD50A",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [
-    ],
-    "includedLayerIds": [
-    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -31,7 +29,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -40,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -59,8 +58,10 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Mountains",
-  "nameIsFixed": true,
+  "name": "Mountains No Background",
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -113,6 +114,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "DB0F9D0F-79B9-4F1B-9A25-B821CFE650EC",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
