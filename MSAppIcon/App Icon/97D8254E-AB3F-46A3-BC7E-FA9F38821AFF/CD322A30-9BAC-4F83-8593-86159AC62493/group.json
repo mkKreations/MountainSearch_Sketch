@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "97D8254E-AB3F-46A3-BC7E-FA9F38821AFF",
+  "do_objectID": "CD322A30-9BAC-4F83-8593-86159AC62493",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,48 +15,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 304,
-    "width": 304,
-    "x": 445,
-    "y": -711
+    "height": 206,
+    "width": 304.0000000000001,
+    "x": 0,
+    "y": 98.10403393727303
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "CD322A30-9BAC-4F83-8593-86159AC62493"
+      "class": "shapePath",
+      "id": "A2197A33-93FA-4BC7-92C6-4BE470C4189B"
+    },
+    {
+      "class": "shapePath",
+      "id": "42579230-265F-40B5-9986-1424883E1CE8"
+    },
+    {
+      "class": "shapePath",
+      "id": "C610087C-BA7E-4016-BD45-C7D47A5015F1"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Mountains",
+  "name": "Peaks",
   "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -108,11 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

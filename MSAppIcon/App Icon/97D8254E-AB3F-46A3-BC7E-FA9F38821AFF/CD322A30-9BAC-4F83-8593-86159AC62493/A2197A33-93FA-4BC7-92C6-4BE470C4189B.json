@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C610087C-BA7E-4016-BD45-C7D47A5015F1",
+  "do_objectID": "A2197A33-93FA-4BC7-92C6-4BE470C4189B",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 152.2671525397903,
-    "width": 153.7475047283662,
-    "x": 150.252495271634,
-    "y": 151.7328474602097
+    "height": 152,
+    "width": 193.3815165250049,
+    "x": -5.684341886080801e-14,
+    "y": 53.89596606272698
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -30,49 +30,49 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Right Peak",
+  "name": "Left Peak",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0.99999999999999578}",
+      "curveFrom": "{0, 0.29658611721739336}",
       "curveMode": 1,
-      "curveTo": "{0, 0.99999999999999578}",
+      "curveTo": "{0, 0.29658611721739336}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 0.99999999999999578}"
+      "point": "{0, 0.29658611721739336}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.8556130403511637, 0}",
+      "curveFrom": "{0.2058213162660508, 0}",
       "curveMode": 1,
-      "curveTo": "{0.8556130403511637, 0}",
+      "curveTo": "{0.2058213162660508, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.8556130403511637, 0}"
+      "point": "{0.2058213162660508, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.000000000000004, 0.14811272103397816}",
+      "curveFrom": "{1, 1}",
       "curveMode": 1,
-      "curveTo": "{1.000000000000004, 0.14811272103397816}",
+      "curveTo": "{1, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.000000000000004, 0.14811272103397816}"
+      "point": "{1, 1}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.0000000000000042, 0.99999999999999467}",
+      "curveFrom": "{0, 1}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000042, 0.99999999999999467}",
+      "curveTo": "{0, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.0000000000000042, 0.99999999999999467}"
+      "point": "{0, 1}"
     }
   ],
   "resizingConstraint": 63,
@@ -170,20 +170,20 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2235294117647059,
-          "green": 0.1843137254901961,
-          "red": 0.1843137254901961
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 0,
+        "fillType": 1,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.63419829668599004, 0.26381974127730629}",
+          "from": "{0.05129211992164396, 0.24530142726287726}",
           "gradientType": 0,
           "stops": [
             {
@@ -202,6 +202,17 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
+                "blue": 0.1953220273391356,
+                "green": 0.1574639575426704,
+                "red": 0.1600279096920768
+              },
+              "position": 0.6270586993243243
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
                 "blue": 0.1568627450980392,
                 "green": 0.1215686274509804,
                 "red": 0.1215686274509804
@@ -209,7 +220,7 @@
               "position": 1
             }
           ],
-          "to": "{1, 0.5}"
+          "to": "{0.2232703681419281, 0.466518134234152}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
