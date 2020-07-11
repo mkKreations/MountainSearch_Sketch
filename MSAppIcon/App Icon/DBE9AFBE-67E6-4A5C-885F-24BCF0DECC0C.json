@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "C8D396A6-6D6D-4583-94A1-D5712C4C3245",
+  "do_objectID": "DBE9AFBE-67E6-4A5C-885F-24BCF0DECC0C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -19,7 +19,7 @@
     "constrainProportions": true,
     "height": 304,
     "width": 304,
-    "x": 81,
+    "x": 445,
     "y": -711
   },
   "hasClippingMask": false,
@@ -36,7 +36,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Reference",
+  "name": "Reference Copy",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
